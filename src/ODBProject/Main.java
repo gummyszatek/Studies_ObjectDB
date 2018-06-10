@@ -31,6 +31,8 @@ public class Main {
 		
 		EntityManager em_circle = emf_circle.createEntityManager();
 		
+		//-----------------------------------------------------------------------
+		
 		em_student.getTransaction().begin();
 		for(int i = 0; i < 5; i++)
 		{
@@ -43,6 +45,8 @@ public class Main {
 		
 		Query q1 = em_student.createQuery("SELECT COUNT(p) FROM Student p");
 		System.out.println("Liczba studentów: " + q1.getSingleResult());
+		
+		//-----------------------------------------------------------------------
 		
 		em_student.close();
 		emf_student.close();		
