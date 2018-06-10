@@ -47,7 +47,7 @@ public class Main {
 		System.out.println("Liczba studentów: " + q1.getSingleResult());
 		
 		//-----------------------------------------------------------------------
-		
+		//pzr
 		em_student.close();
 		emf_student.close();		
 		
