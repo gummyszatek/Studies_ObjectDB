@@ -104,3 +104,177 @@ Type ODBProject.Faculty is not enhanced.
 [2018-06-10 17:14:11 #6 store] 
 Database '/home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/db/Student.odb' is closed by 7576@someone-Lenovo-B590
 
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-06-10 17:17:49 #1 store] 
+Database '/home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/db/Student.odb' is opened by 7648@someone-Lenovo-B590
+
+[2018-06-10 17:17:49 #2 store] 
+Configuration path: /home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/objectdb.conf
+
+[2018-06-10 17:17:49 #3 type.registry] 
+New type ODBProject.Person
+
+[2018-06-10 17:17:49 #4 type.registry] 
+New type ODBProject.Student
+
+[2018-06-10 17:17:49 #5 type] 
+Type ODBProject.Person is not enhanced.
+
+[2018-06-10 17:17:49 #6 type.registry] 
+New type ODBProject.ScientificCircle
+
+[2018-06-10 17:17:49 #7 type.registry] 
+New type ODBProject.Course
+
+[2018-06-10 17:17:49 #8 type.registry] 
+New type ODBProject.Faculty
+
+[2018-06-10 17:17:49 #9 type] 
+Type ODBProject.Student is not enhanced.
+
+[2018-06-10 17:17:49 #10 type] 
+Type ODBProject.Faculty is not enhanced.
+
+[2018-06-10 17:17:49 #11 store] 
+Database '/home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/db/Student.odb' is closed by 7648@someone-Lenovo-B590
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-06-10 17:49:41 #1 store] 
+Database '/home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/db/Students.odb' is opened by 8239@someone-Lenovo-B590
+
+[2018-06-10 17:49:41 #2 store] 
+Configuration path: /home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/objectdb.conf
+
+[2018-06-10 17:49:41 #3 store] 
+Database '/home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/db/Workers.odb' is opened by 8239@someone-Lenovo-B590
+
+[2018-06-10 17:49:41 #4 store] 
+Configuration path: /home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/objectdb.conf
+
+[2018-06-10 17:49:41 #5 store] 
+Database '/home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/db/Faculties.odb' is opened by 8239@someone-Lenovo-B590
+
+[2018-06-10 17:49:41 #6 store] 
+Configuration path: /home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/objectdb.conf
+
+[2018-06-10 17:49:41 #7 store] 
+Database '/home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/db/Courses.odb' is opened by 8239@someone-Lenovo-B590
+
+[2018-06-10 17:49:41 #8 store] 
+Configuration path: /home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/objectdb.conf
+
+[2018-06-10 17:49:41 #9 store] 
+Database '/home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/db/ScientificCircles.odb' is opened by 8239@someone-Lenovo-B590
+
+[2018-06-10 17:49:41 #10 store] 
+Configuration path: /home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/objectdb.conf
+
+[2018-06-10 17:49:41 #11 type.registry] 
+New type ODBProject.Person
+
+[2018-06-10 17:49:41 #12 type.registry] 
+New type ODBProject.Student
+
+[2018-06-10 17:49:41 #13 type] 
+Type ODBProject.Person is not enhanced.
+
+[2018-06-10 17:49:41 #14 type.registry] 
+New type ODBProject.ScientificCircle
+
+[2018-06-10 17:49:41 #15 type.registry] 
+New type ODBProject.Course
+
+[2018-06-10 17:49:41 #16 type.registry] 
+New type ODBProject.Faculty
+
+[2018-06-10 17:49:41 #17 type] 
+Type ODBProject.Student is not enhanced.
+
+[2018-06-10 17:49:41 #18 type] 
+Type ODBProject.ScientificCircle is not enhanced.
+
+[2018-06-10 17:49:41 #19 type] 
+Type ODBProject.Course is not enhanced.
+
+[2018-06-10 17:49:41 #20 type] 
+Type ODBProject.Faculty is not enhanced.
+
+[2018-06-10 17:49:41 #21 store] 
+Database '/home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/db/Students.odb' is closed by 8239@someone-Lenovo-B590
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-06-10 17:50:44 #1 store] 
+Database '/home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/db/Students.odb' is opened by 8288@someone-Lenovo-B590
+
+[2018-06-10 17:50:44 #2 store] 
+Configuration path: /home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/objectdb.conf
+
+[2018-06-10 17:50:44 #3 type] 
+Type ODBProject.Person is not enhanced.
+
+[2018-06-10 17:50:44 #4 type] 
+Type ODBProject.Student is not enhanced.
+
+[2018-06-10 17:50:44 #5 type] 
+Type ODBProject.ScientificCircle is not enhanced.
+
+[2018-06-10 17:50:44 #6 type] 
+Type ODBProject.Course is not enhanced.
+
+[2018-06-10 17:50:44 #7 type] 
+Type ODBProject.Faculty is not enhanced.
+
+[2018-06-10 17:50:44 #8 store] 
+Database '/home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/db/Workers.odb' has been recovered (tr. 1-2)
+
+[2018-06-10 17:50:44 #9 store] 
+Database '/home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/db/Workers.odb' is opened by 8288@someone-Lenovo-B590
+
+[2018-06-10 17:50:44 #10 store] 
+Configuration path: /home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/objectdb.conf
+
+[2018-06-10 17:50:44 #11 store] 
+Database '/home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/db/Faculties.odb' has been recovered (tr. 1-2)
+
+[2018-06-10 17:50:44 #12 store] 
+Database '/home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/db/Faculties.odb' is opened by 8288@someone-Lenovo-B590
+
+[2018-06-10 17:50:44 #13 store] 
+Configuration path: /home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/objectdb.conf
+
+[2018-06-10 17:50:44 #14 store] 
+Database '/home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/db/Courses.odb' has been recovered (tr. 1-2)
+
+[2018-06-10 17:50:44 #15 store] 
+Database '/home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/db/Courses.odb' is opened by 8288@someone-Lenovo-B590
+
+[2018-06-10 17:50:44 #16 store] 
+Configuration path: /home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/objectdb.conf
+
+[2018-06-10 17:50:44 #17 store] 
+Database '/home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/db/ScientificCircles.odb' has been recovered (tr. 1-2)
+
+[2018-06-10 17:50:44 #18 store] 
+Database '/home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/db/ScientificCircles.odb' is opened by 8288@someone-Lenovo-B590
+
+[2018-06-10 17:50:44 #19 store] 
+Configuration path: /home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/objectdb.conf
+
+[2018-06-10 17:50:44 #20 store] 
+Database '/home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/db/Students.odb' is closed by 8288@someone-Lenovo-B590
+
+[2018-06-10 17:50:44 #21 store] 
+Database '/home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/db/Workers.odb' is closed by 8288@someone-Lenovo-B590
+
+[2018-06-10 17:50:44 #22 store] 
+Database '/home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/db/Faculties.odb' is closed by 8288@someone-Lenovo-B590
+
+[2018-06-10 17:50:44 #23 store] 
+Database '/home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/db/ScientificCircles.odb' is closed by 8288@someone-Lenovo-B590
+
+[2018-06-10 17:50:44 #24 store] 
+Database '/home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/db/Courses.odb' is closed by 8288@someone-Lenovo-B590
+

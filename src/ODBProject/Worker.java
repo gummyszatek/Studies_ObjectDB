@@ -19,6 +19,16 @@ public final class Worker extends Person {
 		Salary = salary;
 	}
 	
+	public long getWorkerID()
+	{
+		return WorkerID;
+	}
+	
+	public int getSalary()
+	{
+		return Salary;
+	}
+	
 	public void addCourse(Course c)
 	{
 		Courses.add(c);

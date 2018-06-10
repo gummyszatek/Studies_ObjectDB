@@ -29,4 +29,40 @@ public abstract class Person implements Serializable{
 	
 	protected abstract void DescribeYourself();
 	
+	public String getName()
+	{
+		return Name;
+	}
+	
+	public String getSurname()
+	{
+		return Surname;
+	}
+	
+	public int getAge()
+	{
+		return Age;
+	}
+	
+	public Faculty getFaculty()
+	{
+		return Faculty;
+	}
+	
+	public List<Course> getCourses()
+	{
+		return Courses;
+	}
+	
+	public List<ScientificCircle> getCircles()
+	{
+		return ScientificCircles;
+	}
+	
+	public long getPersonOID()
+	{
+		return PersonOID;
+	}
+	
+	
 }

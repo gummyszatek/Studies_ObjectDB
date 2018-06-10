@@ -22,6 +22,16 @@ public final class Student extends Person{
 		Group = group;
 	}
 	
+	public String getGroup()
+	{
+		return Group;
+	}
+	
+	public long getAlbum()
+	{
+		return AlbumID;
+	}
+	
 	public void addCourse(Course c)
 	{
 		Courses.add(c);
