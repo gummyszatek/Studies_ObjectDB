@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+<<<<<<< HEAD
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/someone/workspace/Studies_ObjectDB/objectdb-2.7.5/bin/objectdb.jar"/>
+=======
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+>>>>>>> 75342698023cdb0602486399db3918ec1218278b
+	<classpathentry kind="output" path="bin"/>
+</classpath>
